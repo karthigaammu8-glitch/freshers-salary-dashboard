@@ -118,24 +118,4 @@ Public fresher salary datasets
 
 Articles on Indian IT and analytics salary trends
 
-I’ve created a clean, professional README.md for your Indian Freshers Salary Dashboard and added it to the canvas on the side 👈
 
-This README is GitHub-ready and includes:
-
-Project overview
-
-Objectives
-
-Dataset summary
-
-Dashboard & KPI explanation
-
-Key insights
-
-Limitations
-
-Future enhancements
-
-Tools used
-
-Conclusion & references
