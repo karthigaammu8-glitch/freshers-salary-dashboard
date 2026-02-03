@@ -1,121 +1,125 @@
-Indian Freshers Salary Dashboard 📊
+📊 Freshers Salary Dashboard (India)
 📌 Project Overview
 
-The Indian Freshers Salary Dashboard is a data analytics and visualization project designed to analyze and present salary trends for fresh graduates in India. The dashboard provides clear insights into how salaries and internship stipends vary across job roles, companies, and company types, helping students, job seekers, and recruiters make informed decisions.
+The Freshers Salary Dashboard is a data analytics project that analyzes salary trends of fresh graduates in India across different job roles, companies, and company types.
+The dashboard provides interactive insights into salary distribution, interview counts, job offers, and internship stipends, helping freshers make informed career decisions.
 
-This project demonstrates practical skills in data analysis, Excel dashboards, and data storytelling.
-<img width="1082" height="561" alt="FRESHERS SALARY DASHBOARD" src="https://github.com/user-attachments/assets/c468c43f-1623-4eb9-8198-583e983facc0" />
+This project demonstrates practical skills in data analysis, visualization, and dashboard design.
+<img width="1082" height="561" alt="FRESHERS SALARY DASHBOARD" src="https://github.com/user-attachments/assets/33fd93ae-f797-444f-b5a6-0c6a7376f8ee" />
 
+🎯 Project Objectives
 
-🎯 Objectives
+Analyze salary trends for Indian freshers
 
-Analyze fresher salary trends across different job roles
+Compare salaries across job roles and companies
 
-Compare salaries offered by various companies
+Evaluate internship stipend distributions
 
-Evaluate salary distribution by company type (Startup, MNC, Product-Based, Service-Based)
+Identify high-paying roles and organizations
 
-Analyze internship stipend patterns
+Visualize fresher employment data using an interactive dashboard
 
-Identify high-paying roles and organizations for freshers
+🗂️ Dataset Description
 
-Present insights using an interactive dashboard
+The dataset contains structured fresher employment data with the following fields:
 
-📂 Dataset Summary
+Role – Data Scientist, Cloud Engineer, Business Analyst, etc.
 
-The dataset contains structured information related to fresher employment in India, including:
-
-Role – Data Scientist, Cloud Engineer, Business Analyst, AI/ML Engineer, etc.
-
-Company – Deloitte, Infosys, TCS, Accenture, Cognizant, Wipro, etc.
+Company – Deloitte, Infosys, TCS, Accenture, Startup, etc.
 
 Company Type – Startup, MNC, Product-Based, Service-Based
 
-Salary (LPA) – Annual salary offered to freshers
+Salary (LPA) – Annual salary offered (Lakhs Per Annum)
 
 Interview Count – Number of interviews conducted
 
-Offers Made – Number of job offers issued
+Offer Made – Number of job offers issued
 
-Internship Stipend – Monthly stipend offered to interns
+Internship Stipend – Monthly stipend for interns
 
-The dataset is clean, well-structured, and suitable for analytical and visualization purposes.
+The dataset is clean and suitable for analytical and visualization purposes.
 
-📊 Dashboard Explanation
-🔹 KPI Cards
+📈 Dashboard Features
+🔹 Key KPIs
 
 Total Salary: 3.44K LPA
 
 Interview Count: 992
 
-Total Internship Stipend: 5M
+Internship Stipend: 5M
 
 Offers Made: 254
 
 🔹 Visualizations
 
-Salary by Company (Bar Chart): Shows companies like Deloitte and Infosys offering higher total fresher salaries
+Salary by Company – Identifies top-paying companies
 
-Salary by Company Type (Pie Chart): Compares Startup, MNC, Product-Based, and Service-Based companies
+Salary by Company Type – Startup vs MNC vs Product-Based vs Service-Based
 
-Internship Stipend by Company (Line Chart): Highlights stipend variations across companies
+Internship Stipend by Company – Compares stipend trends
 
-Salary by Role (Bar Chart): Indicates that Data Scientist and Cloud Engineer roles receive higher packages
+Salary by Role – Highlights high-paying fresher roles
 
-🔹 Filters
+Company Type Summary Table – Salary & stipend comparison
 
-Role Slicer: Enables role-wise salary and stipend analysis
+🔹 Filters (Slicers)
+
+Role-based filtering for focused analysis
 
 🔍 Key Insights
 
-Data Scientist and Cloud Engineer roles offer the highest salary packages for freshers
+Data Scientist and Cloud Engineer roles offer the highest salaries
 
-MNCs and Product-Based companies provide better salary opportunities compared to service-based firms
+MNCs and Product-Based companies pay more than service-based firms
 
-Deloitte and Infosys are top contributors to fresher salary distribution
+Deloitte and Infosys are major contributors to fresher salaries
 
-Internship stipends vary widely, with premium companies offering higher stipends
+Internship stipends vary significantly across companies
 
 ⚠️ Limitations
 
-Dataset represents a limited sample and may not reflect the entire Indian job market
+Dataset represents a limited sample size
 
-Aggregated salary data may hide individual-level variations
+Location-based salary variation is not included
 
-Location-based salary differences are not included
+Salaries are aggregated, not individual-level
 
-Real-time data integration is not available
+Real-time data updates are not available
 
 🚀 Future Enhancements
 
-Add city/state-wise salary analysis
+Add location-wise salary analysis
 
-Compare interns, freshers, and experienced professionals
+Compare intern vs fresher vs experienced roles
 
-Integrate real-time or live datasets
+Integrate real-time datasets
 
-Apply predictive analytics for future salary trends
+Apply predictive analytics for salary forecasting
 
-Deploy the dashboard as a web-based application
+Deploy as a web-based dashboard
 
-🛠 Tools & Technologies
+🛠️ Tools & Technologies
 
-Microsoft Excel (Pivot Tables, Pivot Charts, KPIs, Dashboard Design)
+Microsoft Excel / Power BI
 
-Data Analytics & Visualization Techniques
+Pivot Tables & Charts
+
+Data Cleaning Techniques
+
+Dashboard Design & Visualization
+
+📷 Dashboard Preview
 
 ✅ Conclusion
 
-The Indian Freshers Salary Dashboard highlights how data analytics can simplify complex employment data into meaningful insights. This project supports career decision-making for students and job seekers while showcasing strong analytical and dashboard-building skills.
+The Freshers Salary Dashboard effectively converts raw fresher employment data into actionable insights. It helps students, job seekers, and recruiters understand salary trends, role demand, and company compensation patterns while showcasing real-world data analytics skills.
 
-📎 References
+📚 References
 
-Microsoft Excel Documentation
+Microsoft Excel / Power BI Documentation
 
 Data Analytics & Visualization Learning Resources
 
-Public fresher salary datasets
+Public Fresher Salary Datasets
 
-Articles on Indian IT and analytics salary trends
-
-
+Indian IT & Analytics Salary Trend Articles
